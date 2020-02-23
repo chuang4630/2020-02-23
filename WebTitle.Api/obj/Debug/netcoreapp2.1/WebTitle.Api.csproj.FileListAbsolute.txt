@@ -1,0 +1,16 @@
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.csprojAssemblyReference.cache
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.RazorAssemblyInfo.cache
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.RazorAssemblyInfo.cs
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.AssemblyInfoInputs.cache
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.AssemblyInfo.cs
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\WebTitle.Api.deps.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\WebTitle.Api.runtimeconfig.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\WebTitle.Api.runtimeconfig.dev.json
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\WebTitle.Api.dll
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\bin\Debug\netcoreapp2.1\WebTitle.Api.pdb
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.dll
+C:\Projects\Turner\Title Project\WebTitle.App\WebTitle.Api\obj\Debug\netcoreapp2.1\WebTitle.Api.pdb
